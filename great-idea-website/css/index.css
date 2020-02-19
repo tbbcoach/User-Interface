@@ -64,3 +64,51 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav {
+	background-color: lightgreen;
+	display: inline-block;
+	width: 75%;
+}
+
+a {
+	margin: 0 6%;
+}
+
+.top-section div p {
+	font-size: 4rem;
+}
+
+
+.top-section {
+	border: 2px solid;
+	display: inline-block;
+	width: 100%;
+}
+
+.bottom-section {
+	border: 2px solid purple;
+	display: inline-block;
+
+}
+
+.bottom-section div {
+	display: inline-block;
+	width: 25%;
+}
+
+.middle-img {
+	width: 100%;
+}
+.below-pic p {
+	display: inline-block;
+	width: 100;
+}
+
+div {
+	border: 2px solid red;
+}
+
+footer {
+	border: 2px solid blue;
+}
